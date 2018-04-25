@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+  <user name="account">
+    <chan>#account</chan>
+    <serv>irc.chat.twitch.tv</serv>
+    <port>6667</port>
+    <nick>botname</nick>
+    <token>oauth:KEY_HERE</token>
+  </user>
+  
+</config>
